@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrenal1n
-- 👀 I’m interested in coding, automation, 3D printing
+- 👀 I’m interested in  enginerring, coding, automation, 3D printing
 - 🌱 I’m currently learning python and C#
 - 📫 you can reach me via email andre_ehret@yahoo.de
 
